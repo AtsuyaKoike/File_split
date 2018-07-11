@@ -13,10 +13,10 @@ RAITO = 0.2
 #--------------------------------------------------------#
 
 '''
-shutil.rmtree("//home//atsuya//filewake//fingure//0test//")
-shutil.rmtree("//home//atsuya//filewake//fingure//0train//")
-shutil.rmtree("//home//atsuya//filewake//fingure//1test//")
-shutil.rmtree("//home//atsuya//filewake//fingure//1train//")
+shutil.rmtree("//home//atsuya//data//validation//dogs//")
+shutil.rmtree("//home//atsuya//data//validation//cats//")
+shutil.rmtree("//home//atsuya//data//train//dogs//")
+shutil.rmtree("//home//atsuya//data//train//cats//")
 '''
 
 #-------------------ディレクトリ作成----------------------#
