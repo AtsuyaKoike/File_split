@@ -47,7 +47,7 @@ random.shuffle(list1)
 directoryB = '//home//atsuya//data//validation//cats//'
 directoryC = '//home//atsuya//data//train//cats//'
 for i in range( size0 ):
-	A = '//home//atsuya//cats//0//pic_'
+	A = '//home//atsuya//cats//pic_'
 	B = str( list0[i] )
 	C = '.jpg'
 	directory_all = A + B + C
@@ -62,7 +62,7 @@ for i in range( size0 ):
 directoryB = '//home//atsuya//data//validation//dogs//'
 directoryC = '//home//atsuya//data//train//dogs//'
 for j in range( size1 ):
-	A = '//home//atsuya//dogs//1//pic_'
+	A = '//home//atsuya//dogs//pic_'
 	B = str( list1[j] )
 	C = '.jpg'
 	directory_all = A + B + C
